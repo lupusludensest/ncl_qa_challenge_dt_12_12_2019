@@ -1,5 +1,6 @@
 from behave import given, when, then
 
+@given('a Guest')
 
 @given('I am on Homepage')
 def open_homepage(context):
