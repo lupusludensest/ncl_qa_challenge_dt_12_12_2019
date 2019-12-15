@@ -3,6 +3,7 @@ from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
+use_step_matcher("re")
 
 GET_SH_EXC_BTN = (By.XPATH, "//a[contains(@href, '/shore-excursions')]")
 NAV_EXCURSIONS = (By.CSS_SELECTOR, "button.btn-cta.btn-primary.btn-large.search-submit")
@@ -33,6 +34,9 @@ def shore_exc_is_present(context):
 def price_range_is(context):
     context.driver.get('https://www.ncl.com/shore-excursions/search?sort=searchWeight&perPage=12&priceRange=0+30')
 
+
 @then("Only shore excursions within range are displayed")
 def no_more_thirty_is_here(context):
     assert 'priceRange=0+30' in context.driver.current_url == 'https://www.ncl.com/shore-excursions/search?sort=searchWeight&perPage=12&priceRange=0+30'
+
+
