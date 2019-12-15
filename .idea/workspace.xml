@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Gherkin feature file" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ncl_qa_challenge_dt_12_12_2019" />
   </component>
@@ -20,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/features/tests" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../QA_Automation_with_Lana" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -28,7 +35,21 @@
       <recent name="C:\Everything\My_docs\Self_development\IT\Testing\Automation_08_09_2019\ncl_qa_challenge_dt_12_12_2019\features\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Behave.guests_explore_ports.feature (1)">
+  <component name="RunManager" selected="Behave.guest_explores_ports_of_departure.feature">
+    <configuration name="guest_explores_ports_of_departure.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="ncl_qa_challenge_dt_12_12_2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/tests/guest_explores_ports_of_departure.feature" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="guests_explore_ports.feature (1)" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="ncl_qa_challenge_dt_12_12_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="port_of_call" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="guest_explores_ports_of_departure" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ncl_qa_challenge_dt_12_12_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,12 +108,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pages" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/features/steps" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pages/port_of_call.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/features/steps/guest_explores_ports_of_departure.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,10 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Behave.guest_explores_ports_of_departure.feature" />
+        <item itemvalue="Python.guest_explores_ports_of_departure" />
         <item itemvalue="Behave.guests_explore_ports.feature (1)" />
         <item itemvalue="Python.guest_explore_ports_steps" />
         <item itemvalue="Behave.guests_explore_ports.feature" />
-        <item itemvalue="Python.port_of_call" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +161,7 @@
       <workItem from="1576239410589" duration="1238000" />
       <workItem from="1576366023582" duration="1698000" />
       <workItem from="1576369846201" duration="2377000" />
-      <workItem from="1576375639945" duration="256000" />
+      <workItem from="1576375639945" duration="2586000" />
     </task>
     <servers />
   </component>
@@ -161,26 +183,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1576239974274" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1576373668198">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1576377392616">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576373668198" />
-    <state width="1237" height="200" key="GridCell.Tab.0.bottom" timestamp="1576375827422">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576377392616" />
+    <state width="1237" height="246" key="GridCell.Tab.0.bottom" timestamp="1576378192578">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="200" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576375827422" />
-    <state width="1237" height="200" key="GridCell.Tab.0.center" timestamp="1576375827422">
+    <state width="1237" height="246" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576378192578" />
+    <state width="1237" height="246" key="GridCell.Tab.0.center" timestamp="1576378192578">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="200" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576375827422" />
-    <state width="1237" height="200" key="GridCell.Tab.0.left" timestamp="1576375827422">
+    <state width="1237" height="246" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576378192578" />
+    <state width="1237" height="246" key="GridCell.Tab.0.left" timestamp="1576378192578">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="200" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576375827422" />
-    <state width="1237" height="200" key="GridCell.Tab.0.right" timestamp="1576375827422">
+    <state width="1237" height="246" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576378192578" />
+    <state width="1237" height="246" key="GridCell.Tab.0.right" timestamp="1576378192578">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="200" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576375827422" />
+    <state width="1237" height="246" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576378192578" />
     <state x="221" y="75" key="IDE.errors.dialog" timestamp="1576373584125">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -193,10 +215,16 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576367283612" />
+    <state x="343" y="262" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1576376141951">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="343" y="262" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1576376141951" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$port_of_call.coverage" NAME="port_of_call Coverage Results" MODIFIED="1576367841645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature__1_.coverage" NAME="guests_explore_ports.feature (1) Coverage Results" MODIFIED="1576375764104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure.coverage" NAME="guest_explores_ports_of_departure Coverage Results" MODIFIED="1576377653728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_feature.coverage" NAME="guest_explores_ports_of_departure.feature Coverage Results" MODIFIED="1576377666987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature__1_.coverage" NAME="guests_explore_ports.feature (1) Coverage Results" MODIFIED="1576377498911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explore_ports_steps.coverage" NAME="guest_explore_ports_steps Coverage Results" MODIFIED="1576375760600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature.coverage" NAME="guests_explore_ports.feature Coverage Results" MODIFIED="1576373376847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
