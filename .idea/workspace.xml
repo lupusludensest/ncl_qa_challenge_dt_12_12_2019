@@ -27,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../QA_Automation_with_Lana" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -35,7 +35,7 @@
       <recent name="C:\Everything\My_docs\Self_development\IT\Testing\Automation_08_09_2019\ncl_qa_challenge_dt_12_12_2019\features\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Behave.guests_explore_ports.feature (1)">
+  <component name="RunManager" selected="Behave.guest_explores_ports_of_departure.feature">
     <configuration name="guest_explores_ports_of_departure.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="ncl_qa_challenge_dt_12_12_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,7 +50,7 @@
       <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="guests_explore_ports.feature (1)" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+    <configuration name="guests_explore_ports.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="ncl_qa_challenge_dt_12_12_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,21 +64,7 @@
       <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="guests_explore_ports.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
-      <module name="ncl_qa_challenge_dt_12_12_2019" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/guests_explore_ports.feature" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="guest_explore_ports_steps" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Count_odd_and_even_numbers_hw1_dt_09_Dec_2019" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ncl_qa_challenge_dt_12_12_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,12 +72,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/features/steps" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../HWs/1_lesson_algorithms" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/features/steps/guest_explore_ports_steps.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../HWs/1_lesson_algorithms/Count_odd_and_even_numbers_hw1_dt_09_Dec_2019.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="guest_explores_ports_of_departure" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Fibonacci_hw1_dt_08_Dec_2019" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ncl_qa_challenge_dt_12_12_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,12 +94,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/features/steps" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../HWs/1_lesson_algorithms" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/features/steps/guest_explores_ports_of_departure.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../HWs/1_lesson_algorithms/Fibonacci_hw1_dt_08_Dec_2019.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sum of three-digit numbers__hw1_dt_08_Dec_2019" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ncl_qa_challenge_dt_12_12_2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../HWs/1_lesson_algorithms" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../HWs/1_lesson_algorithms/Sum of three-digit numbers__hw1_dt_08_Dec_2019.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Behave.guests_explore_ports.feature (1)" />
         <item itemvalue="Behave.guest_explores_ports_of_departure.feature" />
-        <item itemvalue="Python.guest_explores_ports_of_departure" />
-        <item itemvalue="Python.guest_explore_ports_steps" />
         <item itemvalue="Behave.guests_explore_ports.feature" />
+        <item itemvalue="Python.Fibonacci_hw1_dt_08_Dec_2019" />
+        <item itemvalue="Python.Sum of three-digit numbers__hw1_dt_08_Dec_2019" />
+        <item itemvalue="Python.Count_odd_and_even_numbers_hw1_dt_09_Dec_2019" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +169,9 @@
       <workItem from="1576239410589" duration="1238000" />
       <workItem from="1576366023582" duration="1698000" />
       <workItem from="1576369846201" duration="2377000" />
-      <workItem from="1576375639945" duration="5848000" />
+      <workItem from="1576375639945" duration="6114000" />
+      <workItem from="1576432767987" duration="4603000" />
+      <workItem from="1576456602376" duration="824000" />
     </task>
     <servers />
   </component>
@@ -183,26 +193,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1576239974274" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1576377392616">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1576440254891">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576377392616" />
-    <state width="1237" height="246" key="GridCell.Tab.0.bottom" timestamp="1576380690891">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576440254891" />
+    <state width="1237" height="205" key="GridCell.Tab.0.bottom" timestamp="1576544202485">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="246" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576380690891" />
-    <state width="1237" height="246" key="GridCell.Tab.0.center" timestamp="1576380690891">
+    <state width="1237" height="205" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576544202485" />
+    <state width="1237" height="205" key="GridCell.Tab.0.center" timestamp="1576544202485">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="246" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576380690891" />
-    <state width="1237" height="246" key="GridCell.Tab.0.left" timestamp="1576380690891">
+    <state width="1237" height="205" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576544202485" />
+    <state width="1237" height="205" key="GridCell.Tab.0.left" timestamp="1576544202485">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="246" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576380690891" />
-    <state width="1237" height="246" key="GridCell.Tab.0.right" timestamp="1576380690891">
+    <state width="1237" height="205" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576544202485" />
+    <state width="1237" height="205" key="GridCell.Tab.0.right" timestamp="1576544202485">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="246" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576380690891" />
+    <state width="1237" height="205" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576544202485" />
     <state x="221" y="75" key="IDE.errors.dialog" timestamp="1576373584125">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -211,10 +221,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="39" y="0" width="1099" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1576380056809" />
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1576367283612">
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1576432770041">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576367283612" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576432770041" />
     <state x="343" y="262" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1576376141951">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -223,9 +233,13 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$port_of_call.coverage" NAME="port_of_call Coverage Results" MODIFIED="1576367841645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure.coverage" NAME="guest_explores_ports_of_departure Coverage Results" MODIFIED="1576379320235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_feature.coverage" NAME="guest_explores_ports_of_departure.feature Coverage Results" MODIFIED="1576380554151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_feature.coverage" NAME="guest_explores_ports_of_departure.feature Coverage Results" MODIFIED="1576544202475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature__1_.coverage" NAME="guests_explore_ports.feature (1) Coverage Results" MODIFIED="1576380616827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$Max_integer_from_three_dt_08_Dec_2019.coverage" NAME="Max_integer_from_three_dt_08_Dec_2019 Coverage Results" MODIFIED="1576433226109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HWs/1_lesson_algorithms" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explore_ports_steps.coverage" NAME="guest_explore_ports_steps Coverage Results" MODIFIED="1576375760600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature.coverage" NAME="guests_explore_ports.feature Coverage Results" MODIFIED="1576373376847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$Count_odd_and_even_numbers_hw1_dt_09_Dec_2019.coverage" NAME="Count_odd_and_even_numbers_hw1_dt_09_Dec_2019 Coverage Results" MODIFIED="1576433348448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HWs/1_lesson_algorithms" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature.coverage" NAME="guests_explore_ports.feature Coverage Results" MODIFIED="1576544144931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$Sum_of_three_digit_numbers__hw1_dt_08_Dec_2019.coverage" NAME="Sum of three-digit numbers__hw1_dt_08_Dec_2019 Coverage Results" MODIFIED="1576433958584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HWs/1_lesson_algorithms" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$Fibonacci_hw1_dt_08_Dec_2019.coverage" NAME="Fibonacci_hw1_dt_08_Dec_2019 Coverage Results" MODIFIED="1576438266360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HWs/1_lesson_algorithms" />
   </component>
 </project>
