@@ -5,25 +5,23 @@ from selenium.webdriver.common.by import By
 
 use_step_matcher("re")
 
-GET_SH_EXC_BTN = (By.XPATH, "//a[contains(@href, '/shore-excursions')]")
-NAV_EXCURSIONS = (By.CSS_SELECTOR, "button.btn-cta.btn-primary.btn-large.search-submit")
 SH_EXC_IS_PRESENT = (By.CSS_SELECTOR, "h2.header-title.visible-desktops")
 
-
 @step('I navigated to "Shore Excursion" page')
-def get_ports_btn(context):
-    context.driver.find_element(*GET_SH_EXC_BTN).click()
-    sleep(2)
+def navigated_shore_excursions(context):
+    context.app.top_navigation.click_explore()
+    context.app.top_navigation.click_shore_excursions()
 
 
 @step("I click Find Excursions")
 def nav_excursions(context):
-    context.driver.find_element(*NAV_EXCURSIONS).click()
+    context.app.shore_excursions.click_find_excursions()
     sleep(2)
 
 
 @step("Shore Excursions page is present")
 def shore_exc_is_present(context):
+    #context.app.shore_excursions.text_is_present()
     TEXT_IS_HERE = context.driver.find_element(*SH_EXC_IS_PRESENT).text
     assert 'Shore Excursions' in TEXT_IS_HERE
     print(f'Text: {TEXT_IS_HERE} .')
