@@ -15,8 +15,3 @@ class ShoreExcursions(Page):
 
     def price_range_present(self):
         self.click(*self.PRICE_RANGE_PRESENT)
-
-
-
-
-
