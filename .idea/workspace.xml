@@ -189,7 +189,7 @@
       <workItem from="1576718106670" duration="162000" />
       <workItem from="1576718281726" duration="1956000" />
       <workItem from="1576727682790" duration="520000" />
-      <workItem from="1576803563295" duration="8154000" />
+      <workItem from="1576803563295" duration="9624000" />
     </task>
     <servers />
   </component>
@@ -219,22 +219,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576811065828" />
-    <state width="1237" height="150" key="GridCell.Tab.0.bottom" timestamp="1576812484335">
+    <state width="1237" height="243" key="GridCell.Tab.0.bottom" timestamp="1576814045870">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="150" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576812484335" />
-    <state width="1237" height="150" key="GridCell.Tab.0.center" timestamp="1576812484335">
+    <state width="1237" height="243" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576814045870" />
+    <state width="1237" height="243" key="GridCell.Tab.0.center" timestamp="1576814045869">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="150" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576812484335" />
-    <state width="1237" height="150" key="GridCell.Tab.0.left" timestamp="1576812484334">
+    <state width="1237" height="243" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576814045869" />
+    <state width="1237" height="243" key="GridCell.Tab.0.left" timestamp="1576814045869">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="150" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576812484334" />
-    <state width="1237" height="150" key="GridCell.Tab.0.right" timestamp="1576812484335">
+    <state width="1237" height="243" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576814045869" />
+    <state width="1237" height="243" key="GridCell.Tab.0.right" timestamp="1576814045870">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="150" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576812484335" />
+    <state width="1237" height="243" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576814045870" />
     <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1576636103494">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -271,7 +271,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$application.coverage" NAME="application Coverage Results" MODIFIED="1576556930644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$port_of_call.coverage" NAME="port_of_call Coverage Results" MODIFIED="1576367841645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_feature.coverage" NAME="guest_explores_ports_of_departure.feature Coverage Results" MODIFIED="1576812337939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_feature.coverage" NAME="guest_explores_ports_of_departure.feature Coverage Results" MODIFIED="1576813770402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$Count_odd_and_even_numbers_hw1_dt_09_Dec_2019.coverage" NAME="Count_odd_and_even_numbers_hw1_dt_09_Dec_2019 Coverage Results" MODIFIED="1576433348448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HWs/1_lesson_algorithms" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature.coverage" NAME="guests_explore_ports.feature Coverage Results" MODIFIED="1576805795742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$shore_excursions.coverage" NAME="shore_excursions Coverage Results" MODIFIED="1576812306871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />

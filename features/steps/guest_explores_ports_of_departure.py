@@ -34,3 +34,5 @@ def no_more_thirty_is_here(context):
     assert 'priceRange=0+30' in context.driver.current_url == 'https://www.ncl.com/shore-excursions/search?sort=searchWeight&perPage=12&priceRange=0+30'
 
 
+
+
