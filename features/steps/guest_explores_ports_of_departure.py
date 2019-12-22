@@ -30,8 +30,8 @@ def price_range_is(context):
 
 @then("Only shore excursions within range are displayed")
 def no_more_thirty_is_here(context):
-    context.driver.get('https://www.ncl.com/shore-excursions/search?sort=searchWeight&perPage=12&priceRange=0+30')
-    assert 'priceRange=0+30' in context.driver.current_url == 'https://www.ncl.com/shore-excursions/search?sort=searchWeight&perPage=12&priceRange=0+30'
+    context.app.shore_excursions.open_page('shore-excursions/search?sort=searchWeight&perPage=12&priceRange=0+30')
+    assert 'priceRange=0+30' in context.driver.current_url
 
 
 
