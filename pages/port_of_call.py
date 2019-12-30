@@ -6,7 +6,7 @@ class PortOfCall(Page):
     SEARCH_BAR = (By.ID, 'searchbar')
     FOUND_PORT_LIST_ITEM = (By.CSS_SELECTOR, 'ul.list-find-port')
     PLUS_ZOOMED_IN = (By.CSS_SELECTOR, "li.control-zoom-in[style='opacity: 0.5;']") # opacity полупрозрачность
-    PIN = (By.XPATH, "//div[contains(@style,'position: absolute; left: 50%; top: 50%;')]//img[contains(@src, 'pin')]") # selenium size tool possible use
+    PIN = (By.XPATH, "//div[contains(@style,'position: absolute; left: 50%; top: 50%;')]//img[contains(@src, 'pin')]") # selenium size(e.size)/selenium location(e.location) tools possible use
 
     def search_port(self, port_name):
         self.input_text(port_name, *self.SEARCH_BAR)
