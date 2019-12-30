@@ -36,7 +36,7 @@
       <recent name="C:\Everything\My_docs\Self_development\IT\Testing\Automation_08_09_2019\ncl_qa_challenge_dt_12_12_2019\features\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Behave.guest_explores_ports_of_departure.feature">
+  <component name="RunManager" selected="Behave.guests_explore_ports.feature">
     <configuration name="guest_explores_ports_of_departure.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="ncl_qa_challenge_dt_12_12_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -51,26 +51,18 @@
       <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Longest_word_in_string_spaced" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="guests_explore_ports.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="ncl_qa_challenge_dt_12_12_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../HWs/2_lesson_algorithms" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../HWs/2_lesson_algorithms/Longest_word_in_string_spaced.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/tests/guests_explore_ports.feature" />
+      <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
     <configuration name="Longest_word_in_string_spaced_hw_2_dt_21_Dec_2019" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -141,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Behave.guests_explore_ports.feature" />
         <item itemvalue="Behave.guest_explores_ports_of_departure.feature" />
-        <item itemvalue="Python.shore_excursions" />
         <item itemvalue="Python.guest_explores_ports_of_departure" />
+        <item itemvalue="Python.shore_excursions" />
         <item itemvalue="Python.Longest_word_in_string_spaced_hw_2_dt_21_Dec_2019" />
-        <item itemvalue="Python.Longest_word_in_string_spaced" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +183,11 @@
       <workItem from="1576727682790" duration="520000" />
       <workItem from="1576803563295" duration="9750000" />
       <workItem from="1576965185127" duration="3989000" />
-      <workItem from="1576971380347" duration="3315000" />
+      <workItem from="1576971380347" duration="3420000" />
+      <workItem from="1576989891110" duration="29000" />
+      <workItem from="1577577317025" duration="2861000" />
+      <workItem from="1577642832857" duration="4000" />
+      <workItem from="1577668255320" duration="352000" />
     </task>
     <servers />
   </component>
@@ -221,22 +217,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576811065828" />
-    <state width="1237" height="257" key="GridCell.Tab.0.bottom" timestamp="1576974668573">
+    <state width="1237" height="247" key="GridCell.Tab.0.bottom" timestamp="1577596718142">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="257" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576974668573" />
-    <state width="1237" height="257" key="GridCell.Tab.0.center" timestamp="1576974668573">
+    <state width="1237" height="247" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577596718142" />
+    <state width="1237" height="247" key="GridCell.Tab.0.center" timestamp="1577596718142">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="257" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576974668573" />
-    <state width="1237" height="257" key="GridCell.Tab.0.left" timestamp="1576974668573">
+    <state width="1237" height="247" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577596718142" />
+    <state width="1237" height="247" key="GridCell.Tab.0.left" timestamp="1577596718142">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="257" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576974668573" />
-    <state width="1237" height="257" key="GridCell.Tab.0.right" timestamp="1576974668573">
+    <state width="1237" height="247" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577596718142" />
+    <state width="1237" height="247" key="GridCell.Tab.0.right" timestamp="1577596718142">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="257" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576974668573" />
+    <state width="1237" height="247" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577596718142" />
     <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1576636103494">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -261,10 +257,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="39" y="0" width="1099" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1576628489448" />
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1576965185780">
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1577642833327">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576965185780" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1577642833327" />
     <state x="343" y="262" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1576376141951">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -273,17 +269,17 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$application.coverage" NAME="application Coverage Results" MODIFIED="1576556930644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$port_of_call.coverage" NAME="port_of_call Coverage Results" MODIFIED="1576367841645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_feature.coverage" NAME="guest_explores_ports_of_departure.feature Coverage Results" MODIFIED="1576974447063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_feature.coverage" NAME="guest_explores_ports_of_departure.feature Coverage Results" MODIFIED="1577596572707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$Count_odd_and_even_numbers_hw1_dt_09_Dec_2019.coverage" NAME="Count_odd_and_even_numbers_hw1_dt_09_Dec_2019 Coverage Results" MODIFIED="1576433348448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HWs/1_lesson_algorithms" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature.coverage" NAME="guests_explore_ports.feature Coverage Results" MODIFIED="1576965944353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$shore_excursions.coverage" NAME="shore_excursions Coverage Results" MODIFIED="1576973011772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature.coverage" NAME="guests_explore_ports.feature Coverage Results" MODIFIED="1577596653909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$Longest_word_in_string_spaced.coverage" NAME="Longest_word_in_string_spaced Coverage Results" MODIFIED="1576970355432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HWs/2_lesson_algorithms" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$Longest_word_in_string_spaced_hw_2_dt_21_Dec_2019.coverage" NAME="Longest_word_in_string_spaced_hw_2_dt_21_Dec_2019 Coverage Results" MODIFIED="1576970657045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HWs/2_lesson_algorithms" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$Fibonacci_hw1_dt_08_Dec_2019.coverage" NAME="Fibonacci_hw1_dt_08_Dec_2019 Coverage Results" MODIFIED="1576438266360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HWs/1_lesson_algorithms" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$top_navigation.coverage" NAME="top_navigation Coverage Results" MODIFIED="1576812016081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$Count_symbols_in_string_hw_2_dt_16_Dec_2019.coverage" NAME="Count_symbols_in_string_hw_2_dt_16_Dec_2019 Coverage Results" MODIFIED="1576970051506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HWs/2_lesson_algorithms" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$base_page.coverage" NAME="base_page Coverage Results" MODIFIED="1576812012726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure.coverage" NAME="guest_explores_ports_of_departure Coverage Results" MODIFIED="1576972404479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure.coverage" NAME="guest_explores_ports_of_departure Coverage Results" MODIFIED="1577577354422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature__1_.coverage" NAME="guests_explore_ports.feature (1) Coverage Results" MODIFIED="1576380616827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$Max_integer_from_three_dt_08_Dec_2019.coverage" NAME="Max_integer_from_three_dt_08_Dec_2019 Coverage Results" MODIFIED="1576433226109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HWs/1_lesson_algorithms" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explore_ports_steps.coverage" NAME="guest_explore_ports_steps Coverage Results" MODIFIED="1576812332112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
