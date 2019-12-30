@@ -8,3 +8,5 @@ Feature: Tests for Guest explore Ports of Departure
     Then Map zoomed to show selected port
     And Port is on the middle of the map
     And Port displayed as "Port Of Departure"
+
+    # What do you mean here: Given a Guest

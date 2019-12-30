@@ -9,3 +9,5 @@ Feature: Guest explores Ports of Departure
     And Shore Excursions page is present
     When Price range is filtered to "$0-$30"
     Then Only shore excursions within range are displayed
+
+    # What do you mean here: Given a Guest
