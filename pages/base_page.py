@@ -31,6 +31,9 @@ class Page:
     def find_element(self, *locator):
         return self.driver.find_element(*locator)
 
+    def find_elements(self, *locator):
+        return self.driver.find_elements(*locator)
+
     def wait_for_element_click(self, *locator):
         e = self.wait.until(EC.element_to_be_clickable(locator))
         e.click()

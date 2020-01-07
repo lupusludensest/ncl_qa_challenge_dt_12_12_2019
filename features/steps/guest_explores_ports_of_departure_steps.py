@@ -1,9 +1,5 @@
 from behave import *
 from time import sleep
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-
-use_step_matcher("re")
 
 
 @step('I navigated to "Shore Excursion" page')
@@ -20,10 +16,10 @@ def nav_excursions(context):
 
 @step("Shore Excursions page is present")
 def shore_exc_is_present(context):
-    context.app.shore_excursions.text_is_present()
+    context.app.shore_excursions.verify_page_opened()
 
 
-@when('Price range is filtered to "\$0-\$30"')
+@when('Price range is filtered to "$0-$30"')
 def price_range_is(context):
     context.app.shore_excursions.price_range_present()
 
@@ -32,7 +28,3 @@ def price_range_is(context):
 def no_more_thirty_is_here(context):
     context.app.shore_excursions.open_page('shore-excursions/search?sort=searchWeight&perPage=12&priceRange=0+30')
     assert 'priceRange=0+30' in context.driver.current_url
-
-
-
-

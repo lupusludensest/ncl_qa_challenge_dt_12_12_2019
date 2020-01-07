@@ -1,7 +1,7 @@
 # Created by Vic at 12/12/2019
-Feature: Guest explores Ports of Departure
+Feature: Guest filters shore excursions results using price range
 
-  Scenario: Guest explores Ports of Departure
+  Scenario: Guest filters shore excursions results using price range
     Given a Guest
     And I am on Homepage
     And I navigated to "Shore Excursion" page
@@ -10,4 +10,4 @@ Feature: Guest explores Ports of Departure
     When Price range is filtered to "$0-$30"
     Then Only shore excursions within range are displayed
 
-    # What do you mean here: Given a Guest
+
