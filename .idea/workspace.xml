@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d79c76d2-846e-4452-9cf7-7ecb6d1940f4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ncl_qa_challenge_dt_12_12_2019.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/steps/guest_explores_ports_of_departure_steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/steps/guest_explores_ports_of_departure_steps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/tests/guest_explores_ports_of_departure.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/tests/guest_explores_ports_of_departure.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/tests/guests_explore_ports.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/tests/guests_explore_ports.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/shore_excursions.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shore_excursions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +163,7 @@
       <workItem from="1578286332291" duration="299000" />
       <workItem from="1578286654551" duration="187000" />
       <workItem from="1578286871805" duration="287000" />
-      <workItem from="1578357740706" duration="1149000" />
+      <workItem from="1578357740706" duration="1520000" />
     </task>
     <servers />
   </component>
@@ -184,22 +175,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="361" y="0" key="#guests_explore_ports.feature/0.0.1280.680@0.0.1280.680" timestamp="1578274716537" />
-    <state width="1237" height="267" key="GridCell.Tab.0.bottom" timestamp="1578358921054">
+    <state width="1237" height="267" key="GridCell.Tab.0.bottom" timestamp="1578359262132">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="267" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578358921054" />
-    <state width="1237" height="267" key="GridCell.Tab.0.center" timestamp="1578358921054">
+    <state width="1237" height="267" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578359262132" />
+    <state width="1237" height="267" key="GridCell.Tab.0.center" timestamp="1578359262132">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="267" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578358921054" />
-    <state width="1237" height="267" key="GridCell.Tab.0.left" timestamp="1578358921054">
+    <state width="1237" height="267" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578359262132" />
+    <state width="1237" height="267" key="GridCell.Tab.0.left" timestamp="1578359262132">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="267" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578358921054" />
-    <state width="1237" height="267" key="GridCell.Tab.0.right" timestamp="1578358921054">
+    <state width="1237" height="267" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578359262132" />
+    <state width="1237" height="267" key="GridCell.Tab.0.right" timestamp="1578359262132">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="267" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578358921054" />
+    <state width="1237" height="267" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578359262132" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1578274732484">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
