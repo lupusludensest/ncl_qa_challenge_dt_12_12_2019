@@ -43,6 +43,7 @@ class ShoreExcursions(Page):
     def verify_port_filter(self, port_options):
         # Get a list of expected port locations from the step
         expected_ports = port_options.split(', ')
+        print(f'\nExpected ports: {expected_ports}')
         self.click(*self.PORT_FILTER)
 
         # Make sure port list has opened before verification
@@ -52,5 +53,6 @@ class ShoreExcursions(Page):
         # Verify each port destination belongs to expected ports
         for port in ports:
             actual_port_destination = port.text.split(', ')[1]
+            print(f'\nActual port destiantion: {actual_port_destination}')
             assert actual_port_destination in expected_ports, \
                 f"Actual {actual_port_destination} not in expected {expected_ports}"
