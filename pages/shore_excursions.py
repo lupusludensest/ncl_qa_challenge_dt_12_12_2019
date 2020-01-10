@@ -32,7 +32,7 @@ class ShoreExcursions(Page):
         self.click(*self.PRICE_RANGE_PRESENT)
 
     def verify_page_opened(self):
-        assert 'shore-excursions' in self.driver.current_url, \
+        assert 'shore-excursions/search' in self.driver.current_url, \
             f"Expected 'shore-excursions' page to open, but got {self.driver.current_url}"
 
     def verify_results_filtered(self, expected_filter_text):
