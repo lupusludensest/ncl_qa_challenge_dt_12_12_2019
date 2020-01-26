@@ -2,8 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d79c76d2-846e-4452-9cf7-7ecb6d1940f4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/features/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/141b8af0-c763-468f-a7f4-6c53811f1d0c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/1469f753-5cc2-423c-a75e-a27ee631f3d0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/1d238bd2-5cab-48ac-8a11-e35eb2b084d6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/3b626a90-b38a-4b60-82aa-ed6ca79f2b0c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/402bf32c-f4af-4d31-a47e-e00b0dff2537-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/56f4462c-917d-4121-b92c-a1ec57aff976-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/7d194d36-ba64-4c1b-9dbb-f5275de8d121-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/83f07bf5-e947-4a01-a0f1-30deae41d99b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/8a12e601-7993-4b83-9504-ee58d9e3246e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/93160314-dd1b-42e2-955e-bacdbcdf8000-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/943af35c-bd70-4c04-925a-f310d3045db5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/997bf366-09c3-4133-9f2e-d1fcc18af8d8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/a72f196a-598e-4952-8ee4-09e6dcceef9a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/aceb9110-e4cf-442a-b592-6385f3b26d9f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/b5e6f69d-3f28-4a4d-9f47-8a7d8230bb32-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/cc94edd1-df32-4fc3-9add-21daba12f74c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/e40f316f-f637-488f-aab3-e3a47b403555-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/ec7c4d1b-1918-4368-b03c-de8fe651c7a2-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/steps/guest_explores_ports_of_departure_steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/steps/guest_explores_ports_of_departure_steps.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +32,13 @@
     <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_feature_Guest_filters_shore_excursions_results_using_price_range.coverage" NAME="guest_explores_ports_of_departure.feature:Guest filters shore excursions results using price range Coverage Results" MODIFIED="1578268443101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature.coverage" NAME="guests_explore_ports.feature Coverage Results" MODIFIED="1578268409610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$guest_explores_shore_excursions_destinations_feature_Guest_explores_shore_excursions_destinations.coverage" NAME="guest_explores_shore_excursions_destinations.feature:Guest explores shore excursions destinations Coverage Results" MODIFIED="1578268485073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,7 +56,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python-selenium-automation" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
@@ -132,10 +157,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Behave.guest_explores_ports_of_departure.feature" />
+        <item itemvalue="Behave.guests_explore_ports.feature" />
         <item itemvalue="Behave.guest_explores_shore_excursions_destinations.feature" />
         <item itemvalue="Python.guest_explores_ports_of_departure_steps" />
         <item itemvalue="Python.homework" />
-        <item itemvalue="Behave.guests_explore_ports.feature" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +203,17 @@
       <workItem from="1578530682040" duration="8819000" />
       <workItem from="1578540680101" duration="17000" />
       <workItem from="1578625998625" duration="836000" />
-      <workItem from="1578627262935" duration="2809000" />
+      <workItem from="1578627262935" duration="3738000" />
+      <workItem from="1578712873312" duration="828000" />
+      <workItem from="1579051679292" duration="1727000" />
+      <workItem from="1579485180213" duration="752000" />
+      <workItem from="1579569477848" duration="493000" />
+      <workItem from="1579742500716" duration="1627000" />
+      <workItem from="1579806734126" duration="239000" />
+      <workItem from="1579823443190" duration="2928000" />
+      <workItem from="1579908605363" duration="10000" />
+      <workItem from="1579966543138" duration="2912000" />
+      <workItem from="1579994726642" duration="2763000" />
     </task>
     <servers />
   </component>
@@ -193,36 +228,44 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="361" y="0" key="#guests_explore_ports.feature/0.0.1280.680@0.0.1280.680" timestamp="1578274716537" />
-    <state width="1237" height="181" key="GridCell.Tab.0.bottom" timestamp="1578630164843">
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1579823477740">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="181" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578630164843" />
-    <state width="1237" height="181" key="GridCell.Tab.0.center" timestamp="1578630164842">
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579823477740" />
+    <state width="1237" height="210" key="GridCell.Tab.0.bottom" timestamp="1579970961225">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="181" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578630164842" />
-    <state width="1237" height="181" key="GridCell.Tab.0.left" timestamp="1578630164842">
+    <state width="1237" height="210" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579970961225" />
+    <state width="1237" height="210" key="GridCell.Tab.0.center" timestamp="1579970961225">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="181" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578630164842" />
-    <state width="1237" height="181" key="GridCell.Tab.0.right" timestamp="1578630164843">
+    <state width="1237" height="210" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579970961225" />
+    <state width="1237" height="210" key="GridCell.Tab.0.left" timestamp="1579970961225">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="181" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578630164843" />
+    <state width="1237" height="210" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579970961225" />
+    <state width="1237" height="210" key="GridCell.Tab.0.right" timestamp="1579970961225">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579970961225" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1578535905156">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1578535905156" />
+    <state x="0" y="0" width="609" height="680" key="find.popup" timestamp="1579997014382">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="609" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1579997014382" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$base_page.coverage" NAME="base_page Coverage Results" MODIFIED="1578275257656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$Experiments_1.coverage" NAME="Experiments_1 Coverage Results" MODIFIED="1578366901504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Database_Application_Development _24_August_2017/Phyton/Phyton_lessons_dt_20_December_2017/Experiments_Python_3.6.4" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$port_of_call.coverage" NAME="port_of_call Coverage Results" MODIFIED="1578535604590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_feature.coverage" NAME="guest_explores_ports_of_departure.feature Coverage Results" MODIFIED="1578630164825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_feature.coverage" NAME="guest_explores_ports_of_departure.feature Coverage Results" MODIFIED="1579998142858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$guest_explores_shore_excursions_destinations_steps.coverage" NAME="guest_explores_shore_excursions_destinations_steps Coverage Results" MODIFIED="1578284470681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_shore_excursions_destinations_feature.coverage" NAME="guest_explores_shore_excursions_destinations.feature Coverage Results" MODIFIED="1578630103907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_shore_excursions_destinations_feature.coverage" NAME="guest_explores_shore_excursions_destinations.feature Coverage Results" MODIFIED="1579743499284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1578450212449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HWs/4_lesson_algorithms" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature.coverage" NAME="guests_explore_ports.feature Coverage Results" MODIFIED="1578536049871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature.coverage" NAME="guests_explore_ports.feature Coverage Results" MODIFIED="1579970912709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_feature.coverage" NAME="guest_explores_ports_of_departure.feature Coverage Results" MODIFIED="1578275329231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$guest_explores_shore_excursions_destinations_feature.coverage" NAME="guest_explores_shore_excursions_destinations.feature Coverage Results" MODIFIED="1578358594602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$shore_excursions.coverage" NAME="shore_excursions Coverage Results" MODIFIED="1578358448150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
