@@ -8,4 +8,4 @@ Feature: Guest explores shore excursions destinations
     When I search for destination "Alaska Cruises"
     Then Shore Excursions page is present
     And Results are filtered by "Alaska Cruises"
-    And Filter By Ports are only belong to "Alaska, British Columbia"
+    And Filter By Ports are only belong to "Washington, Russia, Alaska, British Columbia"

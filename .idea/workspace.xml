@@ -2,26 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d79c76d2-846e-4452-9cf7-7ecb6d1940f4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/features/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/141b8af0-c763-468f-a7f4-6c53811f1d0c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/1469f753-5cc2-423c-a75e-a27ee631f3d0-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/1d238bd2-5cab-48ac-8a11-e35eb2b084d6-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/3b626a90-b38a-4b60-82aa-ed6ca79f2b0c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/402bf32c-f4af-4d31-a47e-e00b0dff2537-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/56f4462c-917d-4121-b92c-a1ec57aff976-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/7d194d36-ba64-4c1b-9dbb-f5275de8d121-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/83f07bf5-e947-4a01-a0f1-30deae41d99b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/8a12e601-7993-4b83-9504-ee58d9e3246e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/93160314-dd1b-42e2-955e-bacdbcdf8000-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/943af35c-bd70-4c04-925a-f310d3045db5-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/997bf366-09c3-4133-9f2e-d1fcc18af8d8-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/a72f196a-598e-4952-8ee4-09e6dcceef9a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/aceb9110-e4cf-442a-b592-6385f3b26d9f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/b5e6f69d-3f28-4a4d-9f47-8a7d8230bb32-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/cc94edd1-df32-4fc3-9add-21daba12f74c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/e40f316f-f637-488f-aab3-e3a47b403555-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/ec7c4d1b-1918-4368-b03c-de8fe651c7a2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/1d9001f1-24b9-4596-abcb-182e57a0c444-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/201a0749-1cb8-4d2d-9240-23cee2136d05-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/5f4f58b2-9b8a-48b0-a4ce-d8a54708bd5d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/648fd2ee-cebd-4c22-abb9-0260aaae1bc9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/6eafd5d4-de2b-423a-b7e9-c58792e73b8e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/8248c871-fdc7-404c-a826-c82a4f26b9d2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/87d6c6c3-5441-431d-96ec-7a7dbe54bc58-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/9143e079-d64c-47e9-8da4-1f0f3240a58c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/e1ce7a03-3f33-4599-b85a-5f54f27a0241-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/f6827041-4fb2-4fc4-81ac-d091ea75f884-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/fa2e2eef-3ce3-4c1c-8619-559befb5fa6d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/fc6e0f42-9972-4a39-9fb9-eea29b6d945d-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/tests/guest_explores_shore_excursions_destinations.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/tests/guest_explores_shore_excursions_destinations.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,18 +45,18 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../python-selenium-automation" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Behave.guest_explores_ports_of_departure.feature">
+  <component name="RunManager" selected="Behave.guests_explore_ports.feature">
     <configuration name="guest_explores_ports_of_departure.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="experiment_ncl_qa_challenge_dt_12_12_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,6 +99,28 @@
       <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="application" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="experiment_ncl_qa_challenge_dt_12_12_2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/application.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="guest_explores_ports_of_departure_steps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="experiment_ncl_qa_challenge_dt_12_12_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,56 +143,22 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="experiment_ncl_qa_challenge_dt_12_12_2019" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../HWs/4_lesson_algorithms" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../HWs/4_lesson_algorithms/homework.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Behave.guest_explores_shore_excursions_destinations.feature" />
       <item itemvalue="Behave.guests_explore_ports.feature" />
       <item itemvalue="Behave.guest_explores_ports_of_departure.feature" />
-      <item itemvalue="Python.homework" />
       <item itemvalue="Python.guest_explores_ports_of_departure_steps" />
+      <item itemvalue="Python.application" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Behave.guest_explores_ports_of_departure.feature" />
         <item itemvalue="Behave.guests_explore_ports.feature" />
-        <item itemvalue="Behave.guest_explores_shore_excursions_destinations.feature" />
+        <item itemvalue="Python.application" />
+        <item itemvalue="Behave.guest_explores_ports_of_departure.feature" />
         <item itemvalue="Python.guest_explores_ports_of_departure_steps" />
-        <item itemvalue="Python.homework" />
+        <item itemvalue="Behave.guest_explores_shore_excursions_destinations.feature" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -213,64 +197,72 @@
       <workItem from="1579823443190" duration="2928000" />
       <workItem from="1579908605363" duration="10000" />
       <workItem from="1579966543138" duration="2912000" />
-      <workItem from="1579994726642" duration="2763000" />
+      <workItem from="1579994726642" duration="3963000" />
+      <workItem from="1580000677184" duration="1774000" />
+      <workItem from="1580002785122" duration="564000" />
+      <workItem from="1580014738208" duration="158000" />
+      <workItem from="1580014962473" duration="597000" />
+      <workItem from="1580015668479" duration="2156000" />
+      <workItem from="1580067751921" duration="624000" />
+      <workItem from="1580175618493" duration="3609000" />
+      <workItem from="1580182443090" duration="748000" />
+      <workItem from="1580183212916" duration="1210000" />
+      <workItem from="1580251979426" duration="7000" />
+      <workItem from="1580253303005" duration="130000" />
+      <workItem from="1580254473988" duration="660000" />
+      <workItem from="1587689651149" duration="686000" />
+      <workItem from="1588293101643" duration="5339000" />
+      <workItem from="1591503375642" duration="1290000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="0" key="#guests_explore_ports.feature" timestamp="1578274716537">
+    <state width="1237" height="282" key="GridCell.Tab.0.bottom" timestamp="1591503772967">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="361" y="0" key="#guests_explore_ports.feature/0.0.1280.680@0.0.1280.680" timestamp="1578274716537" />
-    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1579823477740">
+    <state width="1237" height="282" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591503772967" />
+    <state width="1237" height="282" key="GridCell.Tab.0.center" timestamp="1591503772967">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579823477740" />
-    <state width="1237" height="210" key="GridCell.Tab.0.bottom" timestamp="1579970961225">
+    <state width="1237" height="282" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591503772967" />
+    <state width="1237" height="282" key="GridCell.Tab.0.left" timestamp="1591503772967">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="210" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579970961225" />
-    <state width="1237" height="210" key="GridCell.Tab.0.center" timestamp="1579970961225">
+    <state width="1237" height="282" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591503772967" />
+    <state width="1237" height="282" key="GridCell.Tab.0.right" timestamp="1591503772967">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="210" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579970961225" />
-    <state width="1237" height="210" key="GridCell.Tab.0.left" timestamp="1579970961225">
+    <state width="1237" height="282" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591503772967" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1588301748186">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="210" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579970961225" />
-    <state width="1237" height="210" key="GridCell.Tab.0.right" timestamp="1579970961225">
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588301748186" />
+    <state x="303" y="1" key="search.everywhere.popup" timestamp="1588302725044">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="210" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579970961225" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1578535905156">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1578535905156" />
-    <state x="0" y="0" width="609" height="680" key="find.popup" timestamp="1579997014382">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="0" y="0" width="609" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1579997014382" />
+    <state x="303" y="1" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1588302725044" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$base_page.coverage" NAME="base_page Coverage Results" MODIFIED="1578275257656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$Experiments_1.coverage" NAME="Experiments_1 Coverage Results" MODIFIED="1578366901504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Database_Application_Development _24_August_2017/Phyton/Phyton_lessons_dt_20_December_2017/Experiments_Python_3.6.4" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$port_of_call.coverage" NAME="port_of_call Coverage Results" MODIFIED="1578535604590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_feature.coverage" NAME="guest_explores_ports_of_departure.feature Coverage Results" MODIFIED="1579998142858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$guest_explores_shore_excursions_destinations_steps.coverage" NAME="guest_explores_shore_excursions_destinations_steps Coverage Results" MODIFIED="1578284470681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_shore_excursions_destinations_feature.coverage" NAME="guest_explores_shore_excursions_destinations.feature Coverage Results" MODIFIED="1579743499284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1578450212449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HWs/4_lesson_algorithms" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature.coverage" NAME="guests_explore_ports.feature Coverage Results" MODIFIED="1579970912709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$guest_explores_shore_excursions_destinations_steps.coverage" NAME="guest_explores_shore_excursions_destinations_steps Coverage Results" MODIFIED="1578284470681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_shore_excursions_destinations_feature.coverage" NAME="guest_explores_shore_excursions_destinations.feature Coverage Results" MODIFIED="1588303497879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_feature.coverage" NAME="guest_explores_ports_of_departure.feature Coverage Results" MODIFIED="1578275329231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$guest_explores_shore_excursions_destinations_feature.coverage" NAME="guest_explores_shore_excursions_destinations.feature Coverage Results" MODIFIED="1578358594602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$port_of_call.coverage" NAME="port_of_call Coverage Results" MODIFIED="1578535604590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
     <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$shore_excursions.coverage" NAME="shore_excursions Coverage Results" MODIFIED="1578358448150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$Experiments_1.coverage" NAME="Experiments_1 Coverage Results" MODIFIED="1578366901504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Database_Application_Development _24_August_2017/Phyton/Phyton_lessons_dt_20_December_2017/Experiments_Python_3.6.4" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$application.coverage" NAME="application Coverage Results" MODIFIED="1591503731444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
     <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature.coverage" NAME="guests_explore_ports.feature Coverage Results" MODIFIED="1578275284691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_steps.coverage" NAME="guest_explores_ports_of_departure_steps Coverage Results" MODIFIED="1578630090807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_feature.coverage" NAME="guest_explores_ports_of_departure.feature Coverage Results" MODIFIED="1588304001400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$homework.coverage" NAME="homework Coverage Results" MODIFIED="1578626360550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HWs/4_lesson_algorithms" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature.coverage" NAME="guests_explore_ports.feature Coverage Results" MODIFIED="1591503772958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$guest_explores_shore_excursions_destinations_feature.coverage" NAME="guest_explores_shore_excursions_destinations.feature Coverage Results" MODIFIED="1578358594602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_steps.coverage" NAME="guest_explores_ports_of_departure_steps Coverage Results" MODIFIED="1588303867524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
   </component>
 </project>

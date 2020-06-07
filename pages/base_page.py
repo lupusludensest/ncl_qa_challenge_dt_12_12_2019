@@ -12,7 +12,7 @@ class Page:
     def click(self, *locator):
         """
         Clicks on WebElement
-        :param locator: search strategy for find_element of a Web Element.
+        :param locator: search strategy for find_element of a Web Elementк.
         """
         self.driver.find_element(*locator).click()
 
