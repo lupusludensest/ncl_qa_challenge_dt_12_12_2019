@@ -2,112 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d79c76d2-846e-4452-9cf7-7ecb6d1940f4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/test_results/0d37823e-3a82-4079-b6f6-967629f831ef-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/61434584-6312-48e2-b67d-6b1aef7d0122-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/6254f4d8-b2f7-489d-91af-30e6ea2d497c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/8fdae3ac-58e2-4cf0-b7b2-e0e0b22f068b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/a4211846-2ba9-4eba-8848-394663a52287-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/ab1b3abb-fef0-4b14-8457-eaddf0104fb4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/bcbc95ef-87fa-469e-84b4-6bbcf2c8b6c1-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/c0da215a-d8a8-4c5e-a456-71937f0e7cdf-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/c74bc842-2c2d-4efa-948e-6633ee73862c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/de5c18aa-33bf-4c7a-93e9-4e8836d92984-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/ea013592-f0b1-43fb-a6f5-c6f5dea3c3ff-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/fb5fde39-302e-452e-919c-de0b9cf8e0c9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/04fafe5b-7114-4a32-88f6-ae5ff62c399d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/16c02740-5ada-4c70-be54-fda0ad6b9874-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/1e9b1061-4cfa-444d-889e-44be9f5fb589-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/4836a97c-b193-48e7-9d0d-22006217359e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/5722539d-b04f-46fd-abc6-c21cc34733ef-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/80f71c53-390c-4183-ab69-79ff6ae88a71-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/86259006-c78a-4dfc-820a-d4f2d0c72f85-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/8955a1fc-8ba8-4fef-a49c-0165e4f68b8a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/8bf1758d-8770-4fc1-97e4-fdd97aca8784-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/8df1ed57-e694-4bbc-bcd5-12e4575741c8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/a4e76bb5-d7f2-4c4a-9347-0e59222128a2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/b540d5b4-caea-462d-a46a-fac9176f09c8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/ba4544bd-f723-40b6-ab79-c852d615befe-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/bbbfae6b-4ec9-4d1c-b27a-124b3eac88f4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/c32085ca-9bd1-4437-874a-95d68286450b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/c4f5fdce-7b0b-4c75-af14-5db44fd66c41-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/ec25ce70-adb6-4792-97c7-2314db922810-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/efb172aa-fc63-4d0c-a758-09de66c1d86f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/f01927ae-8435-405f-b539-5e43b7d4c837-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/f595248d-d251-4e82-bded-232ca10c0162-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/fe87cbaa-6b5a-424a-beb5-0a94b5505932-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytest_repeat-0.9.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytest_repeat-0.9.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytest_repeat-0.9.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytest_repeat-0.9.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytest_repeat-0.9.1.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytest_repeat-0.9.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytest_repeat-0.9.1.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytest_repeat-0.9.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytest_repeat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/steps/guest_explores_ports_of_departure_steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/steps/guest_explores_ports_of_departure_steps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/tests/guest_explores_ports_of_departure.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/tests/guest_explores_ports_of_departure.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/tests/guest_explores_shore_excursions_destinations.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/tests/guest_explores_shore_excursions_destinations.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/port_of_call.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/port_of_call.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/shore_excursions.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shore_excursions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/01bbff4e-3a89-4314-ad8e-385640336ff1-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/036662fa-5ae2-481f-a632-adb29033ab1c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/067fd315-6252-4967-94c2-f04d114595f0-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/0ad7af65-1e5c-4116-9f5e-430840cd6b9c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/0ba31c66-5e71-4d95-bcac-1433a356e451-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/141b8af0-c763-468f-a7f4-6c53811f1d0c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/1469f753-5cc2-423c-a75e-a27ee631f3d0-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/151c9cac-af63-419c-92e3-ab931e320a29-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/1640f444-eb31-4c5a-83d5-2f811033a29e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/17dfb109-f9e5-4531-a500-5973d5b3a30a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/1ad0c5a1-ab79-4cbe-a819-62b63b8ba6b6-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/1d238bd2-5cab-48ac-8a11-e35eb2b084d6-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/1d9001f1-24b9-4596-abcb-182e57a0c444-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/1e824b76-7694-4f38-882e-446b91191640-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/1ef68f6a-36d8-4170-8f28-2812cc6a3670-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/201a0749-1cb8-4d2d-9240-23cee2136d05-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/23dd17e1-d209-494f-9c62-5e2d2aa59d9c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/23ffc7cd-922b-4646-b3a9-73567e5c914d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/263036ae-de52-4011-a5fb-8b70fcea7c39-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/265391c4-cd79-48a9-9ea0-56d0f899d37d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/2bf82000-de2a-45f5-8c26-1e752db3bff8-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/2ea14a02-464a-4979-8776-0c763e4431fc-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/3b626a90-b38a-4b60-82aa-ed6ca79f2b0c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/3e557d80-3771-4357-a65a-a1e9e5c2d667-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/402bf32c-f4af-4d31-a47e-e00b0dff2537-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/418fcf38-d6d2-4174-9124-c7b43b90bda4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/41f80f0c-4197-4dd2-9f07-47b5bde896c8-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/427e5b9c-924c-47ac-8fa0-e51b14e3c75c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/44a003b7-9b8b-42ed-9b21-87254fe0d2c7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/4569f335-ac6b-49a5-9790-426fab38eee7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/50034c16-ea26-4dde-b891-2507fa6f0f5d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/51ab1601-b911-4850-864f-d95da4804104-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/51ec55b8-b979-4c98-a84a-feb053b22afb-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/56f4462c-917d-4121-b92c-a1ec57aff976-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/57b24d81-fcc5-4f4b-ac1c-63d2401a8ae2-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/5ae82bad-047e-4909-8602-2537a4489702-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/5c5ff023-6e7d-42f4-b3f1-80a95917f562-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/5f4f58b2-9b8a-48b0-a4ce-d8a54708bd5d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/618c67f4-cf10-4f70-a7d2-b8ad83241946-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/648fd2ee-cebd-4c22-abb9-0260aaae1bc9-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/6eafd5d4-de2b-423a-b7e9-c58792e73b8e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/738d7f50-ce40-4403-923d-6ff3e69a3ab7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/73ce9b56-372f-48d3-b335-271547f2c78e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/7786bda9-d2a4-4565-ae58-5ad9c22f58bd-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/7d194d36-ba64-4c1b-9dbb-f5275de8d121-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/7e23c35b-df11-43da-aa5e-4caae6a6e2ba-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/8248c871-fdc7-404c-a826-c82a4f26b9d2-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/83f07bf5-e947-4a01-a0f1-30deae41d99b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/845f6531-dcd4-4c33-bdea-12478205077b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/87d6c6c3-5441-431d-96ec-7a7dbe54bc58-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/8a12e601-7993-4b83-9504-ee58d9e3246e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/8b999dcf-2efc-40bd-9f71-05e60bdf28a3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/8d3e9d95-c288-4cc4-8c99-9a3d26112bc1-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/8ef22b2b-b850-4b72-9f81-d8dd768c82e7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/9143e079-d64c-47e9-8da4-1f0f3240a58c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/93160314-dd1b-42e2-955e-bacdbcdf8000-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/943af35c-bd70-4c04-925a-f310d3045db5-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/974c4c8f-2237-4729-a33a-432253471687-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/997bf366-09c3-4133-9f2e-d1fcc18af8d8-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/a5f88de2-da17-46c6-870e-0decf763d8e8-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/a72f196a-598e-4952-8ee4-09e6dcceef9a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/a788d188-3731-4832-8a15-16dab5e56528-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/ace688ca-dda5-4178-b60b-dd892ce0a42a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/aceb9110-e4cf-442a-b592-6385f3b26d9f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/ae7950ed-e0d3-48c4-abb1-cfb19344f162-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/af6df92d-f78e-4dfa-817c-2bab637d9b35-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/b5e6f69d-3f28-4a4d-9f47-8a7d8230bb32-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/b74997d2-1764-4137-af91-53f80a46ed65-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/b92593e1-5ebe-4769-a488-d823bbbf84e3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/bf4f0760-7aaa-4963-93ea-e20a1dc3691d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/c3770470-9c9f-48c6-a86c-135177085d4d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/c898e733-f4b7-4329-ae72-240d195a553b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/cc94edd1-df32-4fc3-9add-21daba12f74c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/ceeb52d0-f0e5-4701-b8d6-132e39122016-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/d349ceb5-3d4a-4d4d-915c-aae8d53b16f0-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/dbf20230-4a4c-407a-91dc-09bd4a92b221-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/e1ce7a03-3f33-4599-b85a-5f54f27a0241-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/e395f669-d2db-4ee8-9fd8-08e54a03ee7d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/e40f316f-f637-488f-aab3-e3a47b403555-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/ec2c9fe7-35e0-4d30-bf78-647ff43e0f94-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/ec7c4d1b-1918-4368-b03c-de8fe651c7a2-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/ef1669c8-56cf-41f9-ad8f-2dbaa3fd6f2c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/f6827041-4fb2-4fc4-81ac-d091ea75f884-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/f74b350d-6618-48d8-8a0d-889345738bc8-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/fa2e2eef-3ce3-4c1c-8619-559befb5fa6d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/fa867335-549f-4b01-ba9c-010e04c16c72-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/fc6e0f42-9972-4a39-9fb9-eea29b6d945d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_results/ff721d46-e7a3-4abf-a982-3e29a1c8d276-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_results/0d37823e-3a82-4079-b6f6-967629f831ef-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_results/61434584-6312-48e2-b67d-6b1aef7d0122-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_results/6254f4d8-b2f7-489d-91af-30e6ea2d497c-result.json" beforeDir="false" afterPath="$PROJECT_DIR$/test_results/b3a2c4a7-59df-4b3a-90cf-2620bdde12a8-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_results/8fdae3ac-58e2-4cf0-b7b2-e0e0b22f068b-result.json" beforeDir="false" afterPath="$PROJECT_DIR$/test_results/d442399d-dfc0-4b7b-a1a2-a27fb485cc61-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_results/a4211846-2ba9-4eba-8848-394663a52287-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_results/ab1b3abb-fef0-4b14-8457-eaddf0104fb4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_results/bcbc95ef-87fa-469e-84b4-6bbcf2c8b6c1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_results/c0da215a-d8a8-4c5e-a456-71937f0e7cdf-result.json" beforeDir="false" afterPath="$PROJECT_DIR$/test_results/0070a7cd-5e5e-444b-bb03-06730d3a3eab-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_results/c74bc842-2c2d-4efa-948e-6633ee73862c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_results/de5c18aa-33bf-4c7a-93e9-4e8836d92984-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_results/ea013592-f0b1-43fb-a6f5-c6f5dea3c3ff-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_results/fb5fde39-302e-452e-919c-de0b9cf8e0c9-result.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,6 +110,20 @@
       <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="guest_explores_shore_excursions_destinations.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="experiment_ncl_qa_challenge_dt_12_12_2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/tests/guest_explores_shore_excursions_destinations.feature" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="guests_explore_ports.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="experiment_ncl_qa_challenge_dt_12_12_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,28 +153,6 @@
       <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="base_page" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="experiment_ncl_qa_challenge_dt_12_12_2019" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pages" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pages/base_page.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="port_of_call" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="experiment_ncl_qa_challenge_dt_12_12_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,19 +176,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.base_page" />
       <item itemvalue="Behave.guest_explores_ports_of_departure.feature" />
       <item itemvalue="Behave.guests_explore_ports.feature" />
-      <item itemvalue="Python.port_of_call" />
       <item itemvalue="Behave.guests_explore_ports.feature:Guest explores Ports of Departure" />
+      <item itemvalue="Python.port_of_call" />
+      <item itemvalue="Behave.guest_explores_shore_excursions_destinations.feature" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Behave.guests_explore_ports.feature" />
-        <item itemvalue="Python.port_of_call" />
         <item itemvalue="Behave.guests_explore_ports.feature:Guest explores Ports of Departure" />
+        <item itemvalue="Python.port_of_call" />
+        <item itemvalue="Behave.guest_explores_shore_excursions_destinations.feature" />
         <item itemvalue="Behave.guest_explores_ports_of_departure.feature" />
-        <item itemvalue="Python.base_page" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +250,8 @@
       <workItem from="1601346840260" duration="851000" />
       <workItem from="1601602240903" duration="1317000" />
       <workItem from="1614297245875" duration="1386000" />
-      <workItem from="1614302411240" duration="13700000" />
+      <workItem from="1614302411240" duration="13760000" />
+      <workItem from="1614349208266" duration="13429000" />
     </task>
     <servers />
   </component>
@@ -332,20 +264,20 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_feature.coverage" NAME="guest_explores_ports_of_departure.feature Coverage Results" MODIFIED="1614309812282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_feature_Guest_filters_shore_excursions_results_using_price_range.coverage" NAME="guest_explores_ports_of_departure.feature:Guest filters shore excursions results using price range Coverage Results" MODIFIED="1614309101803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_shore_excursions_destinations_feature.coverage" NAME="guest_explores_shore_excursions_destinations.feature Coverage Results" MODIFIED="1588303497879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_shore_excursions_destinations_feature.coverage" NAME="guest_explores_shore_excursions_destinations.feature Coverage Results" MODIFIED="1614349926348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1578450212449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HWs/4_lesson_algorithms" />
     <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature.coverage" NAME="guests_explore_ports.feature Coverage Results" MODIFIED="1578275284691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$base_page.coverage" NAME="base_page Coverage Results" MODIFIED="1614309732836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
     <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$base_page.coverage" NAME="base_page Coverage Results" MODIFIED="1578275257656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$application.coverage" NAME="application Coverage Results" MODIFIED="1591503731444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$Experiments_1.coverage" NAME="Experiments_1 Coverage Results" MODIFIED="1578366901504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Database_Application_Development _24_August_2017/Phyton/Phyton_lessons_dt_20_December_2017/Experiments_Python_3.6.4" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$port_of_call.coverage" NAME="port_of_call Coverage Results" MODIFIED="1614316121952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$port_of_call.coverage" NAME="port_of_call Coverage Results" MODIFIED="1614361002218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
     <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$guest_explores_shore_excursions_destinations_feature.coverage" NAME="guest_explores_shore_excursions_destinations.feature Coverage Results" MODIFIED="1578358594602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_feature.coverage" NAME="guest_explores_ports_of_departure.feature Coverage Results" MODIFIED="1578275329231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$shore_excursions.coverage" NAME="shore_excursions Coverage Results" MODIFIED="1578358448150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature_Guest_explores_Ports_of_Departure.coverage" NAME="guests_explore_ports.feature:Guest explores Ports of Departure Coverage Results" MODIFIED="1614314998702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature_Guest_explores_Ports_of_Departure.coverage" NAME="guests_explore_ports.feature:Guest explores Ports of Departure Coverage Results" MODIFIED="1614361271925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$homework.coverage" NAME="homework Coverage Results" MODIFIED="1578626360550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HWs/4_lesson_algorithms" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature.coverage" NAME="guests_explore_ports.feature Coverage Results" MODIFIED="1614316125578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature.coverage" NAME="guests_explore_ports.feature Coverage Results" MODIFIED="1614363940275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$shore_excursions.coverage" NAME="shore_excursions Coverage Results" MODIFIED="1614309529394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
     <SUITE FILE_PATH="coverage/experiment_ncl_qa_challenge_dt_12_12_2019$guest_explores_shore_excursions_destinations_steps.coverage" NAME="guest_explores_shore_excursions_destinations_steps Coverage Results" MODIFIED="1578284470681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_steps.coverage" NAME="guest_explores_ports_of_departure_steps Coverage Results" MODIFIED="1614308106090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
