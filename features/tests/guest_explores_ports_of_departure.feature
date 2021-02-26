@@ -7,7 +7,7 @@ Feature: Guest filters shore excursions results using price range
     And I navigated to "Shore Excursion" page
     And I click Find Excursions
     And Shore Excursions page is present
-    When Price range is filtered to "$0-$30"
+    When Price range is filtered to $0-$3000
     Then Only shore excursions within range are displayed
 
 

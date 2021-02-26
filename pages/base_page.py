@@ -39,4 +39,4 @@ class Page:
         e.click()
 
     def wait_for_element_appear(self, *locator):
-        self.wait.until(EC.presence_of_element_located(locator))
+        self.wait.until(EC.visibility_of_element_located(locator))

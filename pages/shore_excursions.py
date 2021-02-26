@@ -28,8 +28,11 @@ class ShoreExcursions(Page):
     def click_find_excursions(self):
         self.wait_for_element_click(*self.FIND_EXCURSIONS)
 
-    def price_range_present(self):
-        self.click(*self.PRICE_RANGE_PRESENT)
+    def price_range_present(self, rng):
+        text_here = self.find_element(*self.PRICE_RANGE_PRESENT).text
+        print(f'\nActual text: {text_here} VS expected text: {rng}')
+        assert rng == text_here, f'Expected text {rng}, but got {text_here}'
+
 
     def verify_page_opened(self):
         assert 'shore-excursions/search' in self.driver.current_url, \

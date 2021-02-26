@@ -19,9 +19,9 @@ def shore_exc_is_present(context):
     context.app.shore_excursions.verify_page_opened()
 
 
-@when('Price range is filtered to "$0-$30"')
-def price_range_is(context):
-    context.app.shore_excursions.price_range_present()
+@when('Price range is filtered to {rng}')
+def price_range_is(context, rng):
+    context.app.shore_excursions.price_range_present(rng)
     context.app.shore_excursions.open_page('shore-excursions/search?sort=searchWeight&perPage=12&priceRange=0+30')
 
 
