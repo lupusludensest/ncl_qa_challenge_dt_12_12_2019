@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d79c76d2-846e-4452-9cf7-7ecb6d1940f4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/test_results/32e4b8f7-5720-4aa3-ad0c-46b5b74f83a4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/3c24e30d-bc29-4607-8f75-ae2a2fb2effc-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_results/d37d2d25-ba66-468e-9fa2-6c1bbe7b663a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/0271d5de-6143-4b2f-bfcb-b44f415794c7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/4096decb-5d5b-49eb-8a88-5ba14b63d5f6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/87d4b652-ef34-489d-a5ad-b391973e4cb6-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,7 @@
       <recent name="C:\Everything\IT\Testing\Automation_08_09_2019\ncl_qa_challenge_dt_12_12_2019" />
     </key>
   </component>
-  <component name="RunManager" selected="Behave.guest_explores_shore_excursions_destinations.feature">
+  <component name="RunManager" selected="Behave.guests_explore_ports.feature:Guest explores Ports of Departure">
     <configuration name="guest_explores_ports_of_departure.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="experiment_ncl_qa_challenge_dt_12_12_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,9 +143,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Behave.guests_explore_ports.feature:Guest explores Ports of Departure" />
         <item itemvalue="Behave.guest_explores_shore_excursions_destinations.feature" />
         <item itemvalue="Behave.guests_explore_ports.feature" />
-        <item itemvalue="Behave.guests_explore_ports.feature:Guest explores Ports of Departure" />
         <item itemvalue="Python.port_of_call" />
         <item itemvalue="Behave.guest_explores_ports_of_departure.feature" />
       </list>
@@ -212,7 +212,8 @@
       <workItem from="1614302411240" duration="13760000" />
       <workItem from="1614349208266" duration="15430000" />
       <workItem from="1614376353196" duration="2378000" />
-      <workItem from="1614743051913" duration="1284000" />
+      <workItem from="1614743051913" duration="1366000" />
+      <workItem from="1614826471916" duration="631000" />
     </task>
     <servers />
   </component>
