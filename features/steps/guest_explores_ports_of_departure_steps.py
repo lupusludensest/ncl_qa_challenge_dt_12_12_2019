@@ -21,10 +21,10 @@ def shore_exc_is_present(context):
 
 @when('Price range is filtered to {rng}')
 def price_range_is(context, rng):
-    context.app.shore_excursions.price_range_present(rng)
-    context.app.shore_excursions.open_page('shore-excursions/search?sort=searchWeight&perPage=12&priceRange=0+30')
+    context.app.shore_excursions.open_page('shore-excursions/search?sort=searchWeight&perPage=12&priceRange=0+3000')
 
 
-@then("Only shore excursions within range are displayed")
-def no_more_thirty_is_here(context):
+@then("Only shore excursions within range {rng} are displayed")
+def no_more_thirty_is_here(context, rng):
     assert 'priceRange=0+30' in context.driver.current_url
+    context.app.shore_excursions.price_range_present(rng)
