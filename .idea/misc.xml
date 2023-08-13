@@ -78,5 +78,5 @@
   <component name="PreferredVcsStorage">
     <preferredVcsName>ApexVCS</preferredVcsName>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (ncl_qa_challenge_dt_12_12_2019)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (ncl_qa_challenge_dt_12_12_2019)" project-jdk-type="Python SDK" />
 </project>
