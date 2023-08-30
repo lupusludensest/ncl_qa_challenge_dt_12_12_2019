@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d79c76d2-846e-4452-9cf7-7ecb6d1940f4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/experiment_ncl_qa_challenge_dt_12_12_2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/experiment_ncl_qa_challenge_dt_12_12_2019.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/ALLURE_MANUAL.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/ALLURE_MANUAL.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="5f36069a-0e7c-473e-853a-cf3fd3d79818" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -39,42 +42,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Gurov_SSD_256/IT/Testing/Automation_08_09_2019/ncl_qa_challenge_dt_12_12_2019&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/Gurov_SSD_256/IT/Testing/Automation_08_09_2019/neuro_aut",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Gurov_SSD_256\IT\Testing\Automation_08_09_2019\ncl_qa_challenge_dt_12_12_2019" />
       <recent name="C:\Everything\IT\Testing\Automation_08_09_2019\ncl_qa_challenge_dt_12_12_2019" />
     </key>
   </component>
-  <component name="RunManager" selected="Behave.guests_explore_ports.feature">
-    <configuration name="allure_report" type="BatchConfigurationType" factoryName="Batch" temporary="true">
-      <module name="experiment_ncl_qa_challenge_dt_12_12_2019" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="allure_report.bat" />
-      <option name="PARAMETERS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="allure_run" type="BatchConfigurationType" factoryName="Batch" temporary="true">
-      <module name="experiment_ncl_qa_challenge_dt_12_12_2019" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="allure_run.bat" />
-      <option name="PARAMETERS" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Behave.guest_explores_ports_of_departure.feature:Guest filters shore excursions results using price range">
     <configuration name="guest_explores_ports_of_departure.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="experiment_ncl_qa_challenge_dt_12_12_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,6 +75,21 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/tests/guest_explores_ports_of_departure.feature" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="guest_explores_ports_of_departure.feature:Guest filters shore excursions results using price range" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="experiment_ncl_qa_challenge_dt_12_12_2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/tests/guest_explores_ports_of_departure.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="Guest filters shore excursions results using price range" />
       <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
@@ -117,20 +121,42 @@
       <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="environment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="experiment_ncl_qa_challenge_dt_12_12_2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/features" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/features/environment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Batch.allure_report" />
-      <item itemvalue="Batch.allure_run" />
+      <item itemvalue="Behave.guest_explores_ports_of_departure.feature:Guest filters shore excursions results using price range" />
       <item itemvalue="Behave.guest_explores_ports_of_departure.feature" />
       <item itemvalue="Behave.guest_explores_shore_excursions_destinations.feature" />
       <item itemvalue="Behave.guests_explore_ports.feature" />
+      <item itemvalue="Python.environment" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Behave.guest_explores_ports_of_departure.feature:Guest filters shore excursions results using price range" />
+        <item itemvalue="Python.environment" />
+        <item itemvalue="Behave.guest_explores_ports_of_departure.feature" />
         <item itemvalue="Behave.guests_explore_ports.feature" />
         <item itemvalue="Behave.guest_explores_shore_excursions_destinations.feature" />
-        <item itemvalue="Behave.guest_explores_ports_of_departure.feature" />
-        <item itemvalue="Batch.allure_run" />
-        <item itemvalue="Batch.allure_report" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +232,9 @@
       <workItem from="1623023149900" duration="119000" />
       <workItem from="1625800383802" duration="1597000" />
       <workItem from="1691885439386" duration="100000" />
-      <workItem from="1691885623979" duration="636000" />
+      <workItem from="1691885623979" duration="844000" />
+      <workItem from="1693404399223" duration="223000" />
+      <workItem from="1693404763865" duration="2611000" />
     </task>
     <servers />
   </component>
@@ -230,6 +258,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_shore_excursions_destinations_feature.coverage" NAME="guest_explores_shore_excursions_destinations.feature Coverage Results" MODIFIED="1691886167189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guests_explore_ports_feature.coverage" NAME="guests_explore_ports.feature Coverage Results" MODIFIED="1691886213317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_feature.coverage" NAME="guest_explores_ports_of_departure.feature Coverage Results" MODIFIED="1691886130849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ncl_qa_challenge_dt_12_12_2019$guest_explores_ports_of_departure_feature.coverage" NAME="guest_explores_ports_of_departure.feature Coverage Results" MODIFIED="1693417157432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
